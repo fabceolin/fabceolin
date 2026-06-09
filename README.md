@@ -39,8 +39,9 @@ LangGraph/AutoGen — that **proves** its conclusions and runs **offline on the 
   Terraform multi-account; **SOC 2**, cloud-custodian, vulnerability scanning; FinOps in Python.
 - **uControl** — OEM factory-provisioning system with low-level **TPM / Intel vPro / Secure Boot**
   integration; **1M+ PCs** processed.
-- **MiningMath (Co-founder & CTO)** — multiplatform C++ CI/CD and multi-cloud for tier-1 mining
-  clients (Rio Tinto, Vale, Glencore).
+- **MiningMath (Co-founder & CTO, ~8 yrs)** — ran **self-managed GitLab** + multiplatform C++ CI/CD
+  and multi-cloud (AWS/GCP) for tier-1 mining clients (Rio Tinto, Vale, Glencore); **authored a C++
+  linear-programming solver library** (CPLEX/CLP). Accelerated at **FIEMG LAB 4.0**.
 
 ---
 
@@ -54,6 +55,8 @@ LangGraph/AutoGen — that **proves** its conclusions and runs **offline on the 
 ![Prolog](https://img.shields.io/badge/Prolog-neurosymbolic-EF3B3B)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-self--managed_CI-FC6D26?logo=gitlab&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
