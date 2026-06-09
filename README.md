@@ -61,11 +61,3 @@ LangGraph/AutoGen — that **proves** its conclusions and runs **offline on the 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 **Focus:** neurosymbolic AI · agent orchestration · DevSecOps (SOC 2, vuln mgmt) · edge/offline LLMs · advanced PostgreSQL
-
----
-
-## 📊 GitHub
-
-<!-- Optional: these render live stats. Remove if you prefer a cleaner profile. -->
-![Fabrício's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabceolin&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabceolin&layout=compact&hide_border=true)
