@@ -35,6 +35,9 @@ LangGraph/AutoGen — that **proves** its conclusions and runs **offline on the 
 - **[Kiroku](https://github.com/cnunescoelho/kiroku)** — top external contributor (17 commits) to a
   multi-agent academic-writing system by **Prof. Claudionor Coelho** (PhD, Stanford). Joined Sep 2024,
   **months before** "deep research" agents went mainstream (Google Dec 2024, OpenAI Feb 2025).
+- **VisionQuest / Rankellix (Co-founder, 2025–26)** — co-architected an **agentic platform** for
+  graph-driven apps: **Neo4j** ontologies → auto-generated GraphQL/UI, with **TEA**-powered AI-agent
+  workflows. Production-grade build; the venture wound down before launch.
 - **Comet (Sr. DevOps, NYC)** — Jenkins→GitHub Actions on autoscaled (Karpenter/GPU) Kubernetes;
   Terraform multi-account; **SOC 2**, cloud-custodian, vulnerability scanning; FinOps in Python.
 - **uControl** — OEM factory-provisioning system with low-level **TPM / Intel vPro / Secure Boot**
@@ -63,4 +66,4 @@ LangGraph/AutoGen — that **proves** its conclusions and runs **offline on the 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-pgvector_·_PostGIS-4169E1?logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
-**Focus:** neurosymbolic AI · agent orchestration · DevSecOps (SOC 2, vuln mgmt) · edge/offline LLMs · advanced PostgreSQL
+**Focus:** neurosymbolic AI · agent orchestration · knowledge graphs (Neo4j/KuzuDB) · DevSecOps (SOC 2, vuln mgmt) · edge/offline LLMs · advanced PostgreSQL
