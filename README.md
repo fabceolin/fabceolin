@@ -36,8 +36,8 @@ LangGraph/AutoGen — that **proves** its conclusions and runs **offline on the 
   multi-agent academic-writing system by **Prof. Claudionor Coelho** (PhD, Stanford). Joined Sep 2024,
   **months before** "deep research" agents went mainstream (Google Dec 2024, OpenAI Feb 2025).
 - **VisionQuest / Rankellix (Co-founder, 2025–26)** — co-architected an **agentic platform** for
-  graph-driven apps: **Neo4j** ontologies → auto-generated GraphQL/UI, with **TEA**-powered AI-agent
-  workflows. Production-grade build; the venture wound down before launch.
+  graph-driven apps: **Neo4j** ontologies → auto-generated GraphQL/UI, orchestrated by **TEA**
+  AI-agent workflows.
 - **Comet (Sr. DevOps, NYC)** — Jenkins→GitHub Actions on autoscaled (Karpenter/GPU) Kubernetes;
   Terraform multi-account; **SOC 2**, cloud-custodian, vulnerability scanning; FinOps in Python.
 - **uControl** — OEM factory-provisioning system with low-level **TPM / Intel vPro / Secure Boot**
